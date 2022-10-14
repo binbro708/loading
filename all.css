@@ -1,0 +1,29 @@
+body{
+    height: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #14425a;
+
+}
+
+
+.aaa{
+    display: flex;
+    font-size: 50px;
+    color:#f08f34;
+}
+
+.textA{
+    opacity: 0;
+}
+.textB{
+    opacity: 0;
+}
+.textC{
+    opacity: 0;
+}
+.textD{
+    opacity: 0;
+}
